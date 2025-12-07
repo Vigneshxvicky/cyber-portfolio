@@ -17,5 +17,20 @@ This project analyzes SSH log data to identify a brute-force attack that resulte
 
 ---
 
+## Project 2: Phishing Email Analysis
+
+This project analyzes a phishing email impersonating PayPal to steal user credentials.
+
+### Skills Used
+- Email analysis
+- Social engineering detection
+- Threat assessment
+- Security awareness planning
+
+### File
+- phishing-email-analysis-vignesh.pdf
+
+-------
+
 Prepared by: **Vignesh**
 Certification: Google Cybersecurity Professional Certificate
