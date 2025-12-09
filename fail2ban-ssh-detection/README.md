@@ -1,4 +1,4 @@
-🔐 Fail2ban SSH Brute-Force Detection & Auto-Blocking (SOC Project)
+ Fail2ban SSH Brute-Force Detection & Auto-Blocking (SOC Project)
 1. Overview
 
 This project demonstrates how Fail2ban automatically detects and blocks SSH brute-force attacks on a Linux system.
